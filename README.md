@@ -4,7 +4,7 @@ Atualmente estou estudando Desenvolvimento Web na Trybe, como parte do meu proce
 
 - 🌱 Estudando Node.js
 - 📧 vnpuga@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/vnpuga">
