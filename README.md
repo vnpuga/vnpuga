@@ -1,6 +1,6 @@
 ## Olá, eu sou a Viviane Puga!
 
-Atualmente estou estudando Desenvolvimento Web na Trybe, como parte do meu processo de transição de carreira, que tem sido desafiador e apaixonante ao mesmo tempo. Meu objetivo é me tornar uma excelente desenvolvedora e, se puder, inspirar outras pessoas a fazerem o mesmo. Nunca é tarde para mudar, nunca é tarde para recomeçar!
+Atualmente estou estudando Ciência de Dados, como parte do meu processo de transição de carreira, que tem sido desafiador e apaixonante ao mesmo tempo. Nunca é tarde para mudar, nunca é tarde para recomeçar!
 
 - 🌱 Estudando Python
 - 📧 vnpuga@gmail.com
