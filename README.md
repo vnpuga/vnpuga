@@ -1,7 +1,7 @@
 ## Olá, eu sou a Viviane Puga!
 
 - 🌱 Estudando Python, SQL, Estatística, Power BI.
-- 📧 vnpuga@gmail.com
+<!-- - 📧 vnpuga@gmail.com -->
 - 😄 Pronomes: ela/dela
 
 
