@@ -1,7 +1,5 @@
 ## Olá, eu sou a Viviane Puga!
 
-Atualmente estou estudando Ciência de Dados, como parte do meu processo de transição de carreira, que tem sido desafiador e apaixonante ao mesmo tempo. Nunca é tarde para mudar, nunca é tarde para recomeçar!
-
 - 🌱 Estudando Python, SQL, Estatística, Power BI.
 - 📧 vnpuga@gmail.com
 - 😄 Pronomes: ela/dela
